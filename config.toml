@@ -1,3 +1,6 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://thanhngvpt.github.io/"
 title = "My New Hugo Site"
 languageCode = "en-us"
+
+[Params]
+	Author = "thanhngvpt"
