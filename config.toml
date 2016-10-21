@@ -1,6 +1,13 @@
 baseurl = "https://thanhngvpt.github.io/"
-title = "My New Hugo Site"
+title = "David's Notepad"
 languageCode = "en-us"
 
 [Params]
 	Author = "thanhngvpt"
+	disqusShortname = "thanhngvpt"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
