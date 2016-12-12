@@ -1,8 +1,8 @@
 +++
 date = "2016-12-12T11:26:54+07:00"
-title = "channels"
+title = "Channels in golang"
 draft = false
 
 +++
 
-Testing
+This post introduce about channels in golang, a powerful feature
