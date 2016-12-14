@@ -6,4 +6,4 @@ draft = false
 +++
 
 This post introduce about channels in golang, a powerful feature
-sdfsafsfsfd
+This for testing
