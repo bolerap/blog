@@ -8,7 +8,7 @@ image = "algorithm.jpg"
 
 +++
 
-Mode algorithm là thuật toán được sử dụng để tìm ra phần tử lặp lại nhiều nhất trong một array. Source dưới đây cài đặt cho thuật toán tìm mode của 1 array sử dụng ngôn ngữ Go.
+aaaa Mode algorithm là thuật toán được sử dụng để tìm ra phần tử lặp lại nhiều nhất trong một array. Source dưới đây cài đặt cho thuật toán tìm mode của 1 array sử dụng ngôn ngữ Go.
 
 	// sử dụng slice
 	function sliceMode(input []int) int {
