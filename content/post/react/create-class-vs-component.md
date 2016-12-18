@@ -4,6 +4,7 @@ draft = false
 date = "2016-10-20T15:55:47+07:00"
 tags = [ "React", "Reactjs", "React Component" ]
 categories = [ "Ecmascript" ]
+image = "react-class-vs-component.png"
 
 +++
 

@@ -4,24 +4,26 @@ draft = false
 date = "2016-10-20T14:57:11+07:00"
 tags = [ "python", "idomatic python" ]
 categories = [ "Python" ]
+image = "python-tricks.png"
 
 +++
 
 **Unpacking**
 
-	#1
-	a, b, c = 1, 2, 3
-	d = a, b, c
-	print(d, type(d)) # (1, 2, 3) - tuple
-	#2
-	a, b, c = (2 * i + 1 for i in range(3))
-	d = a, b, c
-	print(d) # (1, 3, 5)
-	#3
-	a, (b, c), d = [1, (2, 3), 5]
-	print(a, b, c, d) # 1 2 3 5
-	#4 - swapping variables
-	a, b = 1, 2
-	a, b = b, a
-	print(a, b) # 2 1
-	#5
+{{< gist thanhngvpt 4c11f8cb2d77547dc7d1344ffc720e2e >}}
+
+**Negative indexing**
+
+{{< gist thanhngvpt e7af21b776415714e46104c0d35e70e5 >}}
+
+**Slicing**
+
+{{< gist thanhngvpt 736739edb57a3deba50209e19706d96a >}}
+
+**Iterating**
+
+{{< gist thanhngvpt cf245eb17d152bd7dc0677902db2cfbe >}}
+
+**Zipping and unzipping**
+	
+{{< gist thanhngvpt 2ba6195c0cb95aad3ea58f9add05c66c >}}

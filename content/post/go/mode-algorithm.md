@@ -1,9 +1,10 @@
 +++
-draft = true
+draft = false
 title = "Mode algorithm"
 date = "2016-10-21T14:15:20+07:00"
 tags = [ "algorithm", "mode algorithm" ]
 categories = [ "Algorithm", "Go" ]
+image = "algorithm.jpg"
 
 +++
 

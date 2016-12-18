@@ -1,10 +1,10 @@
 baseurl = "https://thanhngvpt.github.io/"
-title = "David's Notepad"
+title = "Thanh's Notepad"
 languageCode = "en-us"
 
 [Params]
-	Author = "thanhngvpt"
-	disqusShortname = "thanhngvpt"
+Author = "thanhngvpt"
+disqusShortname = "thanhngvpt"
 
 [taxonomies]
 tag = "tags"
