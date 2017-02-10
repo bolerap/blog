@@ -182,4 +182,6 @@ Vì service của chúng ta sẽ bị exposed qua các giao thức truyền tả
 
 Kiểu `hashRequest` chứa một field duy nhất `password` và `hashResponse` chứa kết quả `Hash` và `Err`. Để model các remote method call, về cơ bản bạn tạo một `struct` cho incoming argument và một struct cho return arguments.
 
-Trước khi tiếp tục
+Trước khi tiếp tục hãy xem có nên model request và response cho `Validate` method không. Hãy xem signature trong `Service` interface, hãy hình dung các arguments mà nó chấp nhận và suy nghĩ về kiểu của response mà chúng ta sẽ cần.
+
+Chúng ta sẽ bổ sung một helper method ( kiểu `http.DecodeRequestFunc` từ go kit) có thể decode json body của `http.Request`.
