@@ -1,7 +1,7 @@
 +++
 date = "2016-11-17T19:29:06+07:00"
 title = "Haskell first step"
-draft = true
+draft = false
 tags = ["haskell", "learn haskell", "haskell tutorial"]
 categories = ["haskell", "translate"]
 image = "haskell.jpg"
