@@ -61,3 +61,5 @@ Phân loại (classification) hay còn được biết đến với tên categor
 Xếp nhóm (clustering) được sử dụng để tạo các nhóm dữ liệu giống nhau dựa trên các đặc điểm chung. Xếp nhóm là một dạng của học không giám sát.
 
 Clustering engine đi qua toàn bộ dữ liệu đầu vào và dựa trên các đặc điểm của dữ liệu nó sẽ quyết định cluster nào sẽ được nhóm lại.
+
+**testing**
